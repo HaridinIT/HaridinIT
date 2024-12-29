@@ -17,13 +17,15 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📄Certifications </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [CompTIA Security+](https://www.credly.com/badges/e632e919-9ba3-412a-8206-0d1b69095b38)
+- [Okta Certified Professional](https://www.credly.com/badges/36c7cd55-bfed-46fa-b922-e240011d1e57/print)
+- [Identity and Access Administrator Associate (SC-300)](https://learn.microsoft.com/api/credentials/share/en-us/Harid-9529/DB2CBAA787AE291F?sharingId=CAB598562DEAC611)
+- [Azure Security Engineer Associate (AZ-500)](https://learn.microsoft.com/api/credentials/share/en-us/Harid-9529/694B3439B545FE8F?sharingId=CAB598562DEAC611)
+- [Google Cybersecurity Professional Certificate]()
+- [CyberArk Defender - PAM](https://training.cyberark.com/share/v1/gamification/assigned_badge/5d70bdf0-d66b-493b-a07e-4531ac822dae/shared?lang=en&t=1735484282703)
+- [CyberArk Sentry - PAM](https://training.cyberark.com/share/v1/gamification/assigned_badge/1c0a70b5-ad34-4859-b5d1-9fa5dc780142/shared?lang=en&t=1735484346232)
 
 <h2> 🤳 Connect with me:</h2>
 
