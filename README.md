@@ -24,8 +24,9 @@
 - [Google Cybersecurity Professional Certificate]()
 - [CyberArk Defender - PAM](https://training.cyberark.com/share/v1/gamification/assigned_badge/5d70bdf0-d66b-493b-a07e-4531ac822dae/shared?lang=en&t=1735484282703)
 - [CyberArk Sentry - PAM](https://training.cyberark.com/share/v1/gamification/assigned_badge/1c0a70b5-ad34-4859-b5d1-9fa5dc780142/shared?lang=en&t=1735484346232)
-- [AWS Certified Cloud Practitioner (In Progress)]
-- [Splunk Core Certified Power User (In Progress)]
+- Okta Certified Administrator (In Progress)
+- AWS Certified Cloud Practitioner (In Progress)
+- Splunk Core Certified Power User (In Progress)
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/harid-akpoghenobor" target="_blank">
